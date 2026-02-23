@@ -12,3 +12,4 @@ php artisan vendor:publish --provider="Spatie\Activitylog\ActivitylogServiceProv
 php artisan migrate
 
 php artisan vendor:publish --tag="filament-audit-pro-config"
+```
